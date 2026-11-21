@@ -1,0 +1,8 @@
+{
+  "name": "RoboLearn Hub",
+  "description": "Interactive STEM learning platform for students aged 8–16 to master Robotics, Scratch, Python, Arduino, and AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
